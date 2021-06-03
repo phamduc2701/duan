@@ -1,0 +1,216 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.aside{
+    background-color: #FFFFFF;
+    border-right: 1px solid #e5eaf0;
+}
+
+.priview{
+    border-radius: 5px;
+}
+/*header*/
+.CardUser a{
+    text-decoration: none;
+    color: #454f59;
+    font-weight: initial;
+}
+.SolutionDetail p{
+    font-size: 20px;
+    padding-top: 13px;
+}
+
+/*priview button*/
+.SolutionDetail_button {
+    margin-left: 50px;
+}
+.description{
+    margin-top: 30px;
+}
+.require{
+    margin-top: 30px;
+}
+.priview{
+    border: 1px solid #e5eaf0;
+    background: #ffffff;
+}
+.row{
+    background: #F9FAFB;
+}
+.content{
+    margin-top: 2rem;
+}
+.SolutionDetail_previewHeader{
+    background: #FFFFFF;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+/*sidebarr*/
+
+.element_img{
+    
+    border-radius: 5px;
+    background: #F9FAFB;
+    padding: 10px;
+}
+.element_img a{
+    text-decoration: none;
+}
+.element_img h3{
+    font-size: 16px;
+    color: #454f59;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.element_img p{
+    color: #454f59;
+    font-size: 13px;
+}
+.section_element{
+    background: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #e5eaf0;
+    border-radius: 5px;
+}
+.btn_button_table{
+    border: 1px solid #e5eaf0;
+    border-radius: 5px;
+    background: #F9FAFB;
+    padding: 10px;
+    margin-top: 1rem;
+}
+.element_link{
+    border: 1px solid #e5eaf0;
+    border-radius: 5px;
+    background: #ffffff;
+    padding: 12px;
+    margin-top: 1rem;
+}
+.btn_button_table{
+    text-align: center;
+}
+.link-checkbox{
+    background: #FFFFFF;
+}
+.link-checkbox a{
+    color: #000;
+}
+.text-element p{
+    font-size: 14px;
+    font-weight: bold;
+}
+    .link_md{
+        text-align: right;
+    }
+
+/*feedback*/
+.form-item{
+    background: #FFFFFF;
+    border: 1px solid #e5eaf0;
+    border-radius: 5px;
+}
+.form-title h2{
+    font-size: 20px;
+    margin-top: 2rem;
+}
+.fical-btn{
+    border: 1px solid #e5eaf0;
+    border-radius: 5px;
+    margin-top: 1rem;
+    background: #FFFFFF;
+}
+.btn-tang{
+    border: 1px solid #e5eaf0;
+    border-radius: 5px;
+    background: #F9FAFB;
+    padding: 12px;
+    margin-top: 1rem;
+    text-align: center;
+}
+.fical_user{
+    margin-top: 0.5rem;
+}
+.fical_user h3{
+    font-size: 14px;
+}
+.fical_user p{
+    font-size: 12px;
+}
+.fical_user a{
+    text-decoration: none;
+    color: #454f59;
+}
+.fical_user img{
+    float: left;
+    margin-right: 0.5rem;
+    border-radius: 5px;
+    margin-left: 0.5em;
+}
+
+.right_text{
+    border: 1px solid #e5eaf0;
+    border-radius: 5px;
+    background: #F9FAFB;
+    padding: 10px;
+    margin-top: 1rem;
+    height: 134px;
+    margin-bottom: 1rem;
+}
+
+/*Stay Updated*/
+.update{
+    margin-top: 20px;
+}
+.update-title h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-top: 2rem;
+}
+.update-item{
+    padding: 8px;
+}
+.update-item a{
+    text-decoration: none;
+    color: #0b0f32;
+}
+.update-item a:hover .box-card{
+    border: 1px solid #c2c6ca;
+}
+.box-card{
+    padding: 16px;
+    background-color: #FFFFFF;
+    border: 1px solid #e5eaf0;
+    border-radius: 0.25rem;
+}.box-card .card-logo{
+    float: left;
+    padding-right: 1rem;
+}
+.box-card .card-logo img{
+    width: 60px;
+}
+.box-card .card-title{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.box-card .card-desc{
+    color: #737f8b;
+}
+
+/*footer*/
+
+.footer_menu ul li{
+    list-style: none;
+    padding: 7px;
+}
+.footer_menu li a{
+    text-decoration: none;
+    color: #454f59;
+    font-size: 16px;
+}
+.footer_address{
+    margin-top: 1rem;
+}
